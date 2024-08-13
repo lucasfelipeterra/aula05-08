@@ -1,1 +1,2 @@
-# aula05-08
+# corretora-imoveis
+crud de entidades relacionadas a corretora
